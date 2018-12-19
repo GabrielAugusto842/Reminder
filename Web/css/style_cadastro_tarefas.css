@@ -1,0 +1,17 @@
+
+
+.container_form{
+    width: 100%;
+    height: 500px;
+    margin: auto;
+    margin-top: 70px;
+/*     box-shadow: 2px 5px 3px;*/
+}
+
+#form_tarefas{
+    width: 80%;
+    min-height: 500px;
+    height:auto;
+    margin: auto;
+   
+}
